@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Asazi este joi 04.05.2023 - master
+Asazi este joi 04.05.2023 este cald
+Suntem la lectii nu cu totii
+>>>>>>> user1
